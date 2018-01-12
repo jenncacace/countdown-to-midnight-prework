@@ -1,6 +1,8 @@
 #write your code here
 
 def countdown(seconds)
-  while 
+  
+  while x < 0 
+    outs 
   
 end
